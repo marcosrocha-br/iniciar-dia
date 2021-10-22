@@ -2,14 +2,9 @@
 
 int main(){
 
-    //Digital Innovation One
-    system("start firefox https://digitalinnovation.one/");
+                                        //DIO                       ESTÁCIO                         ENG. SOFTWARE
+    system("start firefox https://digitalinnovation.one/sign-in https://estacio.webaula.com.br https://youtu.be/kO1PSkzTsYc");
 
-    //Web aula da Estácio
-    system("start firefox https://estacio.webaula.com.br/");
-
-    //Engenharia de software Univesp
-    system("start firefox https://youtu.be/kO1PSkzTsYc");
 
     return 0;
 }
