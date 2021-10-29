@@ -3,14 +3,17 @@
 :: DIGITAL INNOVATION ONE
 set dio=https://digitalinnovation.one/sign-in
 
-:: ESTÁCIO
-set estacio=https://estacio.webaula.com.br/
+:: LINKEDIN
+set linkedin=https://www.linkedin.com
 
 :: YOUTUBE
 set youtube=https://youtube.com
 
+:: HACKERRANK
+set hackerrank=https://www.hackerrank.com/
+
 :: Abrir sites
-	start chrome %dio% %estacio% %youtube%
+	start chrome %dio% %linkedin% %youtube% %hackerrank%
 
 
 
